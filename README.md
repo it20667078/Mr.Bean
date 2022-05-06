@@ -10,5 +10,5 @@ IT20668136 - Hettiarachchi H.A.T.T.
 Team
 Code_Wars
 
-Description
+Description - 
 The name od our application is ' Mr.Bean '. It is for a coffee shop. 
